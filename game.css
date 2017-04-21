@@ -1,1 +1,19 @@
 /*Only use this file if you want to override bootstrap or create your own style*/
+ 
+#target {
+  width:200px;
+  height:200px;
+  background-image:url(http://noiselesschatter.com/wp-content/uploads/2012/06/masterdisguise7.png);
+  background-size: cover;
+  text-align: center;
+}
+#slap{
+  -webkit-text-fill-color: red;
+}
+
+body{
+background-image:url(http://hdwallpaperbackgrounds.net/wp-content/uploads/2017/01/html-color-codes-color-tutorials-hero-Background.jpg);
+background-size: 100%;
+text-align: center;
+-webkit-text-fill-color: ghostwhite;
+}
